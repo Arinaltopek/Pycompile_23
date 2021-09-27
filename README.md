@@ -15,13 +15,13 @@ permintaan pemasangan pip2
 
 pip2 menginstal mekanisme
 
-git clone https://github.com/Arinaltopek/Spammers23
+git clone https://github.com/Arinaltopek/Pycompile_23
 
-cd Spammers23
+cd Pycompile_23
 
-sh Ari.sh
+python Pycompile.py
 
-### <h4 align="center">🔰 Spammers23 🔰</h4>
+### <h4 align="center">🔰 Pycompile 🔰</h4>
 ### 📱 Social Media 📱
 - <a href="https://github.com/Arinaltopek">Github</a>
 - <a href="https://api.whatsapp.com/send?phone=6281212459969">WhatsApp</a>
