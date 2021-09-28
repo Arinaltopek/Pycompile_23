@@ -34,4 +34,4 @@ python Pycompile.py
 
 - <a href="https://youtube.com/channel/UCizU7kz1sKzU5tB9aalbNRw">YouTube</a>
 
-<center><img src="https://github.com/Arinaltopek/Shortlink/blob/main/IMG_20210920_223331.jpg"></img></center>
+<center><img src="https://github.com/Arinaltopek/Pycompile_23/blob/main/IMG_20210928_125622.jpg"></img></center>
