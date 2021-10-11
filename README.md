@@ -25,6 +25,14 @@ python Pycompile.py
 ↓↓↓Token↓↓↓
 QfBhMkS22vTuB9CZAfa3mYLvavDOQLo2p
 
+## fungsi
+- [x] lambda marshal
+- [x] lambda Zlib
+- [x] lambda base64
+- [x] lambda Base32
+- [x] lambda base16
+- [x] DLL
+
 ### <h4 align="center">🔰 Pycompile 🔰</h4>
 
 ### 📱 Social Media 📱
