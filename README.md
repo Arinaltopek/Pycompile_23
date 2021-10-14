@@ -6,6 +6,8 @@ pkg install python
 
 pkg install git
 
+pkg install figlet 
+
 pip2 install requests
 
 pip2 install mechanize
