@@ -12,6 +12,8 @@ pip2 install requests
 
 pip2 install mechanize
 
+ pip install -r requirements.txt
+
 git clone https://github.com/Arinaltopek/Pycompile_23
 
 cd Pycompile_23
